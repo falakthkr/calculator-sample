@@ -160,8 +160,8 @@ const Calculator = () => {
   );
 };
 
-const CalulatorPage = () => {
+const CalculatorPage = () => {
   return <Calculator />;
 };
 
-export default CalulatorPage;
+export default CalculatorPage;
